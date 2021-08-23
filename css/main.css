@@ -2478,7 +2478,7 @@ footer .footer-social {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	top: -.3rem;
+	top: 1rem;
 }
 footer .footer-social li {
 	display: inline-block;
@@ -2490,6 +2490,9 @@ footer .footer-social li a {
 }
 footer .copyright span {
 	display: inline-block;
+	color: rgb(255, 255, 255);
+	position: relative;
+	top: 1rem;
 }
 footer .copyright span::after {
 	content: "|";
