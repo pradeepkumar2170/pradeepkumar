@@ -2478,7 +2478,7 @@ footer .footer-social {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	top: 1rem;
+	top: 2rem;
 }
 footer .footer-social li {
 	display: inline-block;
@@ -2542,12 +2542,12 @@ footer .copyright span:last-child::after {
 	text-decoration: none;
 	border: 0 none;
 	display: block;
-	height: 6.6rem;
+	height: 8.8rem;
 	width: 6rem;
 	line-height: 6.6rem;
 	text-align: center;
 	background: #cc005f;
-	color: #FFFFFF;
+	color: #ffffff;
 	text-align: center;
 	text-transform: uppercase;
 	-moz-transition: all 0.3s ease-in-out;
